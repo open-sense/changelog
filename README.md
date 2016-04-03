@@ -1,4 +1,4 @@
-Changelog History of OPNsense
+Changelog History of opensense
 =============================
 
 The idea is to make them text-friendly, but render them more gracefully in
@@ -18,5 +18,3 @@ The format is as follows:
 We're reinventing the wheel here, but still having fun while doing so.
 Plus the scope is really tiny.  ;)
 
-Peace out,
-Franco on behalf of the OPNsense team
